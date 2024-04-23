@@ -1,0 +1,472 @@
+[
+  {
+    "ville": "Casablanca",
+    "date": "2024-04-22",
+    "indice_qualite_air": 78,
+    "polluants": {
+      "dioxyde_azote": 42,
+      "dioxyde_soufre": 18,
+      "particules_fines": 28
+    }
+  },
+  {
+    "ville": "Rabat",
+    "date": "2024-04-22",
+    "indice_qualite_air": 65,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Marrakech",
+    "date": "2024-04-22",
+    "indice_qualite_air": 72,
+    "polluants": {
+      "dioxyde_azote": 40,
+      "dioxyde_soufre": 20,
+      "particules_fines": 30
+    }
+  },
+  {
+    "ville": "Fès",
+    "date": "2024-04-22",
+    "indice_qualite_air": 60,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Tanger",
+    "date": "2024-04-22",
+    "indice_qualite_air": 70,
+    "polluants": {
+      "dioxyde_azote": 39,
+      "dioxyde_soufre": 17,
+      "particules_fines": 27
+    }
+  },
+  {
+    "ville": "Agadir",
+    "date": "2024-04-22",
+    "indice_qualite_air": 75,
+    "polluants": {
+      "dioxyde_azote": 41,
+      "dioxyde_soufre": 19,
+      "particules_fines": 29
+    }
+  },
+  {
+    "ville": "Oujda",
+    "date": "2024-04-22",
+    "indice_qualite_air": 55,
+    "polluants": {
+      "dioxyde_azote": 33,
+      "dioxyde_soufre": 14,
+      "particules_fines": 22
+    }
+  },
+  {
+    "ville": "Meknès",
+    "date": "2024-04-22",
+    "indice_qualite_air": 68,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 26
+    }
+  },
+  {
+    "ville": "Kenitra",
+    "date": "2024-04-22",
+    "indice_qualite_air": 63,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Tétouan",
+    "date": "2024-04-22",
+    "indice_qualite_air": 67,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Nador",
+    "date": "2024-04-22",
+    "indice_qualite_air": 58,
+    "polluants": {
+      "dioxyde_azote": 34,
+      "dioxyde_soufre": 14,
+      "particules_fines": 22
+    }
+  },
+  {
+    "ville": "Ouarzazate",
+    "date": "2024-04-22",
+    "indice_qualite_air": 70,
+    "polluants": {
+      "dioxyde_azote": 39,
+      "dioxyde_soufre": 18,
+      "particules_fines": 28
+    }
+  },
+  {
+    "ville": "Essaouira",
+    "date": "2024-04-22",
+    "indice_qualite_air": 73,
+    "polluants": {
+      "dioxyde_azote": 40,
+      "dioxyde_soufre": 19,
+      "particules_fines": 29
+    }
+  },
+  {
+    "ville": "El Jadida",
+    "date": "2024-04-22",
+    "indice_qualite_air": 64,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Beni Mellal",
+    "date": "2024-04-22",
+    "indice_qualite_air": 69,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 17,
+      "particules_fines": 26
+    }
+  },
+  {
+    "ville": "Taza",
+    "date": "2024-04-22",
+    "indice_qualite_air": 62,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 15,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Safi",
+    "date": "2024-04-22",
+    "indice_qualite_air": 66,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Laâyoune",
+    "date": "2024-04-22",
+    "indice_qualite_air": 72,
+    "polluants": {
+      "dioxyde_azote": 39,
+      "dioxyde_soufre": 18,
+      "particules_fines": 28
+    }
+  },
+  {
+    "ville": "Khouribga",
+    "date": "2024-04-22",
+    "indice_qualite_air": 70,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 17,
+      "particules_fines": 27
+    }
+  },
+  {
+    "ville": "Béni Tadjit",
+    "date": "2024-04-22",
+    "indice_qualite_air": 63,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Tiznit",
+    "date": "2024-04-22",
+    "indice_qualite_air": 65,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Berrechid",
+    "date": "2024-04-22",
+    "indice_qualite_air": 68,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 26
+    }
+  },
+  {
+    "ville": "Kénitra",
+    "date": "2024-04-22",
+    "indice_qualite_air": 64,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Taourirt",
+    "date": "2024-04-22",
+    "indice_qualite_air": 62,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 14,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Mohammedia",
+    "date": "2024-04-22",
+    "indice_qualite_air": 67,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Skhirat",
+    "date": "2024-04-22",
+    "indice_qualite_air": 63,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Azrou",
+    "date": "2024-04-22",
+    "indice_qualite_air": 60,
+    "polluants": {
+      "dioxyde_azote": 34,
+      "dioxyde_soufre": 14,
+      "particules_fines": 22
+    }
+  },
+  {
+    "ville": "Témara",
+    "date": "2024-04-22",
+    "indice_qualite_air": 65,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Guelmim",
+    "date": "2024-04-22",
+    "indice_qualite_air": 68,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 26
+    }
+  },
+  {
+    "ville": "Ksar El Kébir",
+    "date": "2024-04-22",
+    "indice_qualite_air": 63,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Errachidia",
+    "date": "2024-04-22",
+    "indice_qualite_air": 62,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 14,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Oued Zem",
+    "date": "2024-04-22",
+    "indice_qualite_air": 66,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "El Kelâa des Sraghna",
+    "date": "2024-04-22",
+    "indice_qualite_air": 68,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 26
+    }
+  },
+  {
+    "ville": "Dakhla",
+    "date": "2024-04-22",
+    "indice_qualite_air": 70,
+    "polluants": {
+      "dioxyde_azote": 39,
+      "dioxyde_soufre": 17,
+      "particules_fines": 27
+    }
+  },
+  {
+    "ville": "Taroudant",
+    "date": "2024-04-22",
+    "indice_qualite_air": 66,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Sidi Slimane",
+    "date": "2024-04-22",
+    "indice_qualite_air": 64,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Ouarzazate",
+    "date": "2024-04-22",
+    "indice_qualite_air": 67,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Tata",
+    "date": "2024-04-22",
+    "indice_qualite_air": 62,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 14,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Larache",
+    "date": "2024-04-22",
+    "indice_qualite_air": 66,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Sidi Kacem",
+    "date": "2024-04-22",
+    "indice_qualite_air": 63,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Figuig",
+    "date": "2024-04-22",
+    "indice_qualite_air": 61,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 14,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Guercif",
+    "date": "2024-04-22",
+    "indice_qualite_air": 65,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Tarfaya",
+    "date": "2024-04-22",
+    "indice_qualite_air": 67,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 25
+    }
+  },
+  {
+    "ville": "Midelt",
+    "date": "2024-04-22",
+    "indice_qualite_air": 62,
+    "polluants": {
+      "dioxyde_azote": 35,
+      "dioxyde_soufre": 14,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Asilah",
+    "date": "2024-04-22",
+    "indice_qualite_air": 66,
+    "polluants": {
+      "dioxyde_azote": 37,
+      "dioxyde_soufre": 15,
+      "particules_fines": 24
+    }
+  },
+  {
+    "ville": "Chefchaouen",
+    "date": "2024-04-22",
+    "indice_qualite_air": 64,
+    "polluants": {
+      "dioxyde_azote": 36,
+      "dioxyde_soufre": 15,
+      "particules_fines": 23
+    }
+  },
+  {
+    "ville": "Khouribga",
+    "date": "2024-04-22",
+    "indice_qualite_air": 68,
+    "polluants": {
+      "dioxyde_azote": 38,
+      "dioxyde_soufre": 16,
+      "particules_fines": 26
+    }
+  }
+]
